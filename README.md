@@ -255,7 +255,7 @@ Apache-2.0 — Free to use, modify, and distribute with attribution.
 
 **Sanaé SIAM** — *เสน่ห์สยาม*
 
-Built with ❤️ for SuperAI Season 4 · HACK4
+Built with ❤️ for SuperAI Season 6 · HACK4
 
 *Helping the world experience Thailand with grace, understanding, and respect.*
 
