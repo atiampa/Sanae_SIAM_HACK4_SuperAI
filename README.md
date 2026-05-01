@@ -39,7 +39,7 @@ An AI-powered editorial travel guide with a **Gemini-powered chat advisor** that
 
 ## 🛠 Tech Stack
 
-```
+``
 Frontend Framework
 ├── React 19 + TypeScript 5.8
 ├── Vite 6.2 (build tool)
